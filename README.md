@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Evihut
 - 👀 I’m interested in Math and Physics
-- 🌱 I’m currently learning Applied Math
+- 🌱 I’m currently learning Math and Computer Science
 - 💞️ I’m looking to collaborate on enhancing my coding ability
 
 
