@@ -1,19 +1,38 @@
-# Zhengji Zhang
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Zhengji Zhang — Machine Learning Systems and Applied Mathematics" src="assets/header-light.svg" width="100%">
+</picture>
 
-Computer Science & Mathematics · University of Wisconsin–Madison
+Computer Science & Mathematics at the **University of Wisconsin–Madison**.
 
-I work on machine learning systems, interpretable modeling, and quantitative research.
+I build machine learning systems, study model behavior, and turn experiments into usable tools. My work centers on reproducible evaluation, inference engineering, and quantitative research.
+
+[Selected work](#selected-work) · [All repositories](https://github.com/Evihut?tab=repositories)
 
 ## Selected work
 
-**[MiniMind Systems](https://github.com/Evihut/minimind-systems)**
+<sub>01 / ML SYSTEMS</sub>
 
-Engineering extensions built on MiniMind: static KV caching, dynamic request batching, and observable FastAPI serving. Reproducible CPU microbenchmarks document the implementation and its limits.
+### [MiniMind Systems →](https://github.com/Evihut/minimind-systems)
 
-**[Explainable ESG Risk & Reporting](https://github.com/Evihut/esg-risk-reporting)**
+Engineering extensions built on MiniMind: static KV caching, dynamic request batching, and observable FastAPI serving. Reproducible CPU microbenchmarks compare cache and batching configurations while documenting their experimental limits.
 
-Company risk modeling with shared-fold evaluation, SHAP evidence, and a FastAPI reporting workflow. Developed from the **2025 Zhixiang Cup Grand Prize (特等奖)** case; the repository separates the original award from the subsequent engineering release.
+*PyTorch · FastAPI · Static KV Cache · Dynamic Batching · Prometheus*
 
-## Interests
+---
 
-ML systems · Applied mathematics · Data science · Physics
+<sub>02 / APPLIED MACHINE LEARNING</sub>
+
+### [Explainable ESG Risk & Reporting →](https://github.com/Evihut/esg-risk-reporting)
+
+Company risk modeling with shared-fold evaluation, SHAP evidence, and a model-grounded reporting API. A fresh fixed-parameter evaluation records CatBoost OOF RMSE **4.870** against a training-fold mean baseline of **6.890** across 430 eligible companies.
+
+*CatBoost · SHAP · scikit-learn · FastAPI*
+
+**2025 Zhixiang Cup · Grand Prize / 特等奖**<br>
+<sub>The award applies to the original competition case; the repository separately documents the subsequent engineering release.</sub>
+
+## Focus
+
+ML systems · Applied mathematics · Interpretable modeling · Data science · Quantitative research
