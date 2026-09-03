@@ -26,7 +26,7 @@ A leakage-aware modeling benchmark, SHAP evidence bundle, and validated reportin
 
 `CatBoost` · `SHAP` · `scikit-learn` · `FastAPI`
 
-**2025 Zhixiang Cup · Grand Prize / 特等奖**<br>
+**2025 Zhixiang Cup · Grand Prize**<br>
 <sub>The award applies to the original competition case; the repository separately documents the subsequent engineering release.</sub>
 
 ## Working themes
