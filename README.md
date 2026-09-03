@@ -4,31 +4,26 @@
   <img alt="Zhengji Zhang — computing, mathematics, and applied machine learning" src="assets/header-light.svg" width="100%">
 </picture>
 
-Computer Science & Mathematics at the **University of Wisconsin–Madison** · Reproducible evaluation, inference engineering, and quantitative research · [All repositories](https://github.com/Evihut?tab=repositories)
+<a href="https://github.com/Evihut/minimind-systems">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/minimind-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/minimind-light.svg">
+    <img alt="MiniMind Systems — inference engineering with static KV caching, dynamic batching, FastAPI serving, and reproducible CPU microbenchmarks" src="assets/minimind-light.svg" width="100%">
+  </picture>
+</a>
 
-## Selected work
+<a href="https://github.com/Evihut/esg-risk-reporting">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/esg-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/esg-light.svg">
+    <img alt="Explainable ESG Risk and Reporting — CatBoost OOF RMSE 4.870 versus baseline 6.890 across 430 companies" src="assets/esg-light.svg" width="100%">
+  </picture>
+</a>
 
-<sub>SYSTEMS / 01</sub>
-
-### [MiniMind Systems →](https://github.com/Evihut/minimind-systems)
-
-Inference engineering around static KV caching, dynamic request batching, and observable FastAPI serving. Reproducible CPU microbenchmarks compare cache and batching configurations while documenting their experimental limits.
-
-`PyTorch` · `FastAPI` · `Static KV Cache` · `Dynamic Batching` · `Prometheus`
-
----
-
-<sub>APPLIED MACHINE LEARNING / 02</sub>
-
-### [Explainable ESG Risk & Reporting →](https://github.com/Evihut/esg-risk-reporting)
-
-A leakage-aware modeling benchmark, SHAP evidence bundle, and validated reporting API. A fixed-parameter evaluation records CatBoost OOF RMSE **4.870** against a training-fold mean baseline of **6.890** across 430 eligible companies.
-
-`CatBoost` · `SHAP` · `scikit-learn` · `FastAPI`
-
-**2025 Zhixiang Cup · Grand Prize**<br>
-<sub>The award applies to the original competition case; the repository separately documents the subsequent engineering release.</sub>
-
-## Working themes
-
-Efficient inference · Interpretable modeling · Applied mathematics · Quantitative research
+<a href="https://github.com/Evihut?tab=repositories">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
+    <img alt="View all repositories — efficient inference, interpretable modeling, applied mathematics, and quantitative research" src="assets/footer-light.svg" width="100%">
+  </picture>
+</a>
