@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="980" height="104" viewBox="0 0 980 104" role="img" aria-labelledby="title description">
-  <title id="title">View all repositories</title>
-  <desc id="description">Working themes include efficient inference, interpretable modeling, applied mathematics, and quantitative research.</desc>
-  <rect width="980" height="104" fill="#171512"/>
-  <line x1="68" y1="27" x2="912" y2="27" stroke="#5e574d" stroke-width="1"/>
-  <text x="68" y="62" fill="#8f877b" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="0.65">EFFICIENT INFERENCE · INTERPRETABLE MODELING · APPLIED MATHEMATICS · QUANTITATIVE RESEARCH</text>
-  <text x="912" y="83" fill="#d78e82" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="700" text-anchor="end">VIEW ALL REPOSITORIES ↗</text>
-</svg>
