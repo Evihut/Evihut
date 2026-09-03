@@ -4,11 +4,7 @@
   <img alt="Zhengji Zhang — computing, mathematics, and applied machine learning" src="assets/header-light.svg" width="100%">
 </picture>
 
-> I study learning systems through two lenses: the behavior of the model and the behavior of the software that serves it.
-
-Computer Science & Mathematics at the **University of Wisconsin–Madison**. My work centers on reproducible evaluation, inference engineering, and quantitative research.
-
-[Selected work](#selected-work) · [All repositories](https://github.com/Evihut?tab=repositories)
+Computer Science & Mathematics at the **University of Wisconsin–Madison** · Reproducible evaluation, inference engineering, and quantitative research · [All repositories](https://github.com/Evihut?tab=repositories)
 
 ## Selected work
 
