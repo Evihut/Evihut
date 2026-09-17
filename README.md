@@ -1,4 +1,4 @@
-# Zhengji Zhang
+# Zeke Zhang
 
 **Computer Science & Mathematics at the University of Wisconsin–Madison**
 
